@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Trader/CLionProjects/GTS_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Trader/CLionProjects/GTS_Test/cmake-build-debug/CMakeFiles/GTS_Test.dir
+/cygdrive/c/Users/Trader/CLionProjects/GTS_Test/cmake-build-debug/CMakeFiles/edit_cache.dir

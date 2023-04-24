@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Trader/CLionProjects/GTS_Test/main.cpp
+vector
+-
+cstdio
+-
+string
+-
+iostream
+-
+set
+-
+vector
+-
+sstream
+-
+map
+-
+

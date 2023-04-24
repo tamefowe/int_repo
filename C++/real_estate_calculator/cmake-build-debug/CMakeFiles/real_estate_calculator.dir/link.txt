@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/real_estate_calculator.dir/main.cpp.o  -o real_estate_calculator.exe -Wl,--out-implib,libreal_estate_calculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

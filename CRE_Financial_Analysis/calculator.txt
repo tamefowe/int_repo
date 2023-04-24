@@ -1,0 +1,139 @@
+
+Purchase Price & Down Payment
+	Asking Price
+	Offer/Purchase Price
+	Renovation Expense 
+	Down Payment Percent  Amount
+	Your Down Payment Percent 25%
+	Total Cash Required  - down payment + renovation expense
+	
+Income
+	Gross Rental Income (all income from rental only- do not include fee, laundry unit, etc.)
+	
+	less
+	
+	vacancy - credit loss in % of rents 
+	Non-Revenue Units - units occupied but that do not produce rent - occupied by owner, property manager or maintenance personnel, etc.
+	Bad Debt - unrecoverable delinquent income
+	Concessions - incentives given to tenants in order to boost/stabilize occupancy
+
+Total rental income
+
+	plus
+
+other income - any other income not related to rental areas such as late fees, application fees, laundry units, etc.
+RUBS/CAM income - Residential Utilities Billing system / common area maintenance - amount reimbursed to property owner for services expenditures such as utility, maintenance, paving, common area expenses
+Effective gross income - (rental income + other income) - (rental income * (vacancy + non-revenue units + bad debt + concessions ))
+
+	less
+
+Operating expenses - any expenses necessary to maintain/operate the property - no mortgage information here
+
+	administrative
+		accounting
+		advertising
+		legal
+		marketing
+		office supplies
+		administrative(other)
+		
+	repair & maintenance
+		janitorial
+		landscaping
+		maintenance & repair costs
+		maintenance & repair salary
+		pool
+		supplies
+	
+	utilities
+		cable
+		electric
+		natural gas(oil)
+		sewer/water
+		telephone
+		trash
+		utilities(other)
+	miscellaneous
+	Total variable expenses - (administrative + repair & maintenance + utilities + miscellaneous)
+	taxes
+	insurance
+		fire & liability insurance
+		insurance (other)
+	property management
+		property management fee
+		property management salary
+	
+	Total fixed expenses - Taxes + insurance + property management
+		plus
+		capital  reserve
+		
+	Total operating expenses - total vairable expenses + total fixed expenses 
+	
+Net operating expenses (NOI) - effective gross income - total operating expenses
+
+Cash Flow - Effective Gross Income - (Total Operating Expenses + actual mortgage payments)
+	1 mortgage
+		principal loan balance
+		amortization schedule - default 25 yrs
+		interest rate - default 5.5%
+		monthly payment
+	2 mortgage
+	3 mortgage
+			
+Value
+	
+	Market CAP Rate Range 
+		Low CAP	
+		High CAP
+	
+	Income Based Value
+		Low	
+		High
+		
+	Comps Based Value
+	
+		Comparable Type	 
+			Sales Comparable     
+			Rental Comparable
+		Year Built	
+
+		Number of Units	
+		Master Metered	 
+			Yes     
+			No
+		Amenities	
+		Roof Type	 
+			Pitched     
+			Flat
+		Total Net Rentable Area	sf
+		Occupancy%
+		Sale Price	
+		Sale Date	
+		Distance to Subject	miles
+		Comparable Image	
+	
+	
+rule of thumb for expense %
+
+4 units exp% = 25% of effective gross income
+5-20 units exp% = 30-35%
+20-50 units exp% = 35-45%
+50-100+ units exp% = 45-55% 
+
+Know
+deal under market?
+can rent be increased?
+possible creating financing?
+
+4 things to become an expert in your sub-market
+1. price/unit (price/ sqft if commercial space)
+2. cap rate for the market
+3. market rents (for 1-2-3 bedroom apt units)
+4. expenses/unit (for B and C-class apts)
+
+ 
+	
+	
+	
+	
+	
